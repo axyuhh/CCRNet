@@ -21,3 +21,14 @@ python test.py --content_dir /your_content_images/ --style_dir /your_style_image
 ### Note
 
 If this code is useful to you, please cite our paper.
+
+```
+@article{yu2025arbitrary,
+  title={Arbitrary Style Transfer via Cube and Cube Root Network and Warping Constraint},
+  author={Yu, Xiaoming and Tian, Jie and Hu, Zhenhua},
+  journal={Pattern Recognition},
+  pages={112314},
+  year={2025},
+  publisher={Elsevier}
+}
+```
