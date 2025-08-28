@@ -8,7 +8,7 @@ Download vgg_normalized.pth and put it under models/.
 
 Download COCO2014 dataset (content dataset) and Wikiart dataset (style dataset).
 
-2. Train
+1. Train
 
 python train.py --content_dir /MSCOCO/ --style_dir /Wikiart/
 
