@@ -12,7 +12,7 @@ Download COCO2014 dataset (content dataset) and Wikiart dataset (style dataset).
 
 python train.py --content_dir /MSCOCO/ --style_dir /Wikiart/
 
-### test
+### Test
 
 To use the pre-trained models, please download here [pre-trained model](https://drive.google.com/drive/folders/1R4413DU-8-6DNoKJqj9pVeTyzrYE_yXi?usp=sharing) and put it under experiments/.
 
