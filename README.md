@@ -18,6 +18,10 @@ To use the pre-trained models, please download here [pre-trained model](https://
 
 python test.py --content_dir /your_content_images/ --style_dir /your_style_images/
 
+### Reference
+
+The code is based on project [AdaIN](https://github.com/naoto0804/pytorch-AdaIN).
+
 ### Note
 
 If this code is useful to you, please cite our paper.
